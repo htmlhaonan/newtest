@@ -31,6 +31,7 @@ public class Main {
         System.out.println("11");
         System.out.println("11223");
         System.out.println("1125图5日式风格的发23");
+        System.out.println("1125图5日式风格555的发23");
     }
 
     /**
