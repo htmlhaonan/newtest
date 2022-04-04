@@ -29,6 +29,7 @@ public class Main {
         asf.setStr1("fff");
         System.out.println(asf.getStr1());
         System.out.println("11");
+        System.out.println("11223");
 
     }
 
